@@ -16,3 +16,8 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
+
+batches/
+
+# place any files you want ignored inside a dir called "nosync/"
+nosync/     
